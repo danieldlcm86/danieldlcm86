@@ -1,6 +1,5 @@
 # 💫 Hi, I´m Daniel:
 👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering <br> 🌱 I’m currently learning Java + SpringBoot and React<br> 📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite/<br>💬 Ask me about HTML5, CSS3, Bootstrap, JavaScript and Java<br>📫 Contact me at danieldlcm86@gmail.com<br>📄 Know about my experiences [http://bit.ly/3wcj0kn](https://bit.ly/3MdaVoi)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldlcm86&label=Profile%20views&color=0e75b6&style=flat" alt="danieldlcm86" /> </p>
 
 ## 🌐 Socials:
 <p align="left">
@@ -24,5 +23,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldlcm86&label=Profile%20views&color=0e75b6&style=flat" alt="danieldlcm86" /> </p>
 ---
 
