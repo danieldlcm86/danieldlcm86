@@ -1,5 +1,5 @@
 # 💫 Hi, I´m Daniel Maldonado:
-👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering <br> 🌱 I’m currently learning Java + SpringBoot and React<br> <!--📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite/<br>-->💬 Ask me about HTML5, CSS3, Bootstrap, JavaScript and Java<br>📫 Contact me at danieldlcm86@gmail.com<br>📄 Know about my experiences [http://bit.ly/3wcj0kn](https://bit.ly/3MdaVoi)
+👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering <br> 🌱 I’m currently learning Java + SpringBoot and React<br> <!--📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite/<br>💬 Ask me about HTML5, CSS3, Bootstrap, JavaScript and Java<br>📫 Contact me at danieldlcm86@gmail.com<br>📄 Know about my experiences [http://bit.ly/3wcj0kn](https://bit.ly/3MdaVoi)-->
 
 ## 🌐 Socials:
 <p align="left">
