@@ -23,10 +23,10 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats:
-<!--![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldlcm86&theme=dark&hide_border=false)<br/>-->
+<!--## 📊 GitHub Stats:
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldlcm86&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danieldlcm86&theme=dark&hide_border=false)<br/>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldlcm86&theme=dark&hide_border=false)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldlcm86&theme=dark&hide_border=false)
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danieldlcm86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
