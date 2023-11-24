@@ -1,14 +1,14 @@
 # 💫 Hi, I´m Daniel Maldonado:
 👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering <br> 🌱 I’m currently learning Java + SpringBoot and React<br> 📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite123456/<br>💬 Ask me about HTML5, CSS3, Bootstrap, JavaScript and Java<br>📫 Contact me at danieldlcm86@gmail.com<br>📄 Know about my experiences [http://bit.ly/3wcj0kn123456](https://bit.ly/3MdaVoi123456)
 
-## 🌐 Socials:
+### 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/danieldlcm86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danieldlcm86/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/daniel_dlcmaldo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danieldlcm86" height="30" width="40" /></a>
 <a href="https://www.instagram.com/danieldlcm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="danieldlcm86" height="30" width="30" /></a>
 </p>
 
-## 💻 Languages and Tools:
+### 💻 Languages and Tools:
 <p align="justify"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -34,7 +34,7 @@
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)-->
 
-## 🛎️ Profile views
+### 🛎️ Profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldlcm86&label=Profile%20views&color=0e75b6&style=flat" alt="danieldlcm86" /> </p>
 
 
