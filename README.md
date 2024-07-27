@@ -1,10 +1,10 @@
 ## 💫 Hi, I´m Daniel Maldonado:
 👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering 
 <br> 🌱 I’m currently learning Java + SpringBoot and Ms Azure
-<!--<br> 📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite123456/
-<br>💬 Ask me about JavaScript, React, Java and SpringBoot<br>📫 Contact me at danieldlcm86@gmail.com
-<br>📄 Know about my experiences [http://bit.ly/3wcj0kn123456](https://bit.ly/3MdaVoi123456)-->
 <!--
+<br> 📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite123456/
+<br>💬 Ask me about JavaScript, React, Java and SpringBoot<br>📫 Contact me at danieldlcm86@gmail.com
+<br>📄 Know about my experiences [http://bit.ly/3wcj0kn123456](https://bit.ly/3MdaVoi123456) 
 ### 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/danieldlcm86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danieldlcm86/" height="30" width="40" /></a>
