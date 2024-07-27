@@ -1,6 +1,6 @@
-## 💫 Hi, I´m Daniel Maldonado:
-👨‍💻 I’m Java FullStack Developer Jr. with a degree in environmental biotechnology engineering 
-<br> 🌱 I’m currently learning Java + SpringBoot and Ms Azure
+## 💫 Hi, I´m Daniel Maldonado
+👨‍💻 Java FullStack Developer
+<br> 🌱 I’m currently learning Java + SpringBoot and Microsoft Azure
 <!--
 <br> 📝 All of my projects are available at https://danieldlcm86.github.io/myWebSite123456/
 <br>💬 Ask me about JavaScript, React, Java and SpringBoot<br>📫 Contact me at danieldlcm86@gmail.com
